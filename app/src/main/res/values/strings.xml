@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Inventapp</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="add_stock_home">Add Stock</string>
+    <string name="remove_stock_home">Remove Stock</string>
+    <string name="transactions">Transactions</string>
+
+    <string name="incoming_home">Incoming</string>
+    <string name="outgoing_home">Outgoing</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_analytics">Analytics</string>
+    <string name="title_profile">Profile</string>
+    <string name="empty_transaction">Transactions is empty!</string>
+    <string name="empty_incoming">Incoming is empty!</string>
+    <string name="empty_outgoing">Outgoing is empty!</string>
+    <string name="stocks">Stocks</string>
+    <string name="empty_stocks">Empty Stocks!</string>
+    <string name="take_a_photo_bottom_sheet_fragment">Take a Photo</string>
+    <string name="photo_from_gallery_bottom_sheet_fragment">Photo from Gallery</string>
+    <string name="add_stocks">Add Stocks</string>
+    <string name="title">Title</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="stock_image">Stock Image</string>
+    <string name="save">Save</string>
+    <string name="category">Category</string>
+
+    <string name="title_invalid">Invalid Title!</string>
+    <string name="desc_invalid">Invalid Description!</string>
+    <string name="category_invalid">Invalid Category!</string>
+    <string name="image_invalid">Invalid Image!</string>
+    <string name="price_invalid">Invalid Price!</string>
+    <string name="amount_invalid">Invalid Stocks Amount!</string>
+    <string name="detail">Detail</string>
+    <string name="history">History</string>
+    <string name="add_stocks_quantity">Add Stocks Quantity</string>
+    <string name="stocks_amount">Stocks Amount</string>
+
+</resources>

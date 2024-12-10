@@ -1,0 +1,9 @@
+<resources>
+    <style name="Base.Theme.Inventapp" parent="Theme.Material3.Light.NoActionBar">
+         <item name="android:statusBarColor">@color/primaryBlue</item>
+    </style>
+
+    <style name="Theme.Inventapp.WhiteStatusBar" parent="Base.Theme.Inventapp" >
+        <item name="android:statusBarColor">@color/white</item>
+    </style>
+</resources>
